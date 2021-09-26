@@ -1,0 +1,155 @@
+
+[
+    {
+      "url": "https://media-eng.dhakatribune.com/uploads/2019/11/05-n-1542040361080-1573628305900.jpg",
+      "name": "Humayun Ahmed",
+      "Country": "Bangladesh",
+      "description": "Humayun Ahmed was a Bangladeshi novelist, dramatist, screenwriter, filmmaker, songwriter, scholar, and professor. His breakthrough was his debut novel Nondito Noroke published in 1972. He wrote over 200 fiction and non-fiction books, many of which were bestsellers in Bangladesh.",
+      "Price": 100000,
+      "age":34
+    },
+    {
+      "url": "https://www.daily-bangladesh.com/media/imgAll/2019December/en/NirmalenduGoon-2002131207.jpg",
+      "name": "Nirmalendu Goon",
+      "Country": "Bangladesh",
+      "description": "Nirmalendu Goon is a Bangladeshi poet known for his accessible verse. He was awarded Ekushey Padak in 2001 and Independence Day Award by the Government of Bangladesh in 2016. He was also awarded Bangla Academy Literary Award in 1982.",
+      "Price": 40000,
+      "age":78
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_13qOTqItf0IikoxDTLroCX5X4Tbl_Xj7DA&usqp=CAU",
+      "name": "Humayun azad",
+      "Country": "Bangladesh",
+      "description": "Humayun Azad born Humayun Kabir; 28 April 1947 – 12 August 2004) was a Bangladeshi poet, novelist, short-story writer, critic, linguist, columnist and professor of Dhaka University. He wrote more than sixty titles. He was awarded the Bangla Academy Literary Award in 1986 for his contributions to Bengali",
+      "Price": 70000,
+      "age":85
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Book_Fair_2015_Dhaka_%2816519100026%29.jpg",
+      "name": "Muhammed Zafar Iqbal",
+      "Country": "Bangladesh",
+      "description": "Muhammed Zafar Iqbal is a Bangladeshi science fiction author, physicist, academic and activist. He was a professor of computer science and engineering and Head of the department of Electrical and Electronic Engineering at Shahjalal University of Science and Technology.He retired from SUST in 3 October 2018.",
+      "Price": 90000,
+      "age":56
+    },
+    {
+      "url": "https://media-eng.dhakatribune.com/uploads/2018/12/begum-rokeya-1544333822152.jpg",
+      "name": "Begum Rokeya",
+      "Country": "Bangladesh",
+      "description": "Rokeya Sakhawat Hossain commonly known as Begum Rokeya, was a Bengali feminist thinker, writer, educator and political activist from British India. She is widely regarded as a pioneer of womens liberation in South Asia,",
+      "Price": 40000,
+      "age":56
+    },
+    {
+      "url": "https://media-eng.dhakatribune.com/uploads/2016/08/Nazrul.jpg",
+      "name": "Kazi Nazrul Islam",
+      "Country": "Bangladesh",
+      "description": "Kazi Nazrul Islam was a Bengali poet, writer, musician, and the national poet of Bangladesh. Popularly known as Nazrul, he produced a large body of poetry and music with themes that included religious devotion and rebellion against oppression.",
+      "Price": 100000,
+      "age":98
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7yorY2exWzf2o1DxtmD1_i-Lrk3CZI8LxnH_r4Fsvgo4IFYbO_WAwdgqZH7Pi1Vn_A_o&usqp=CAU",
+      "name": "Rudra Mohammad Shahidullah",
+      "Country": "Bangladesh",
+      "description": "Rudra Mohammad Shahidullah, was a Bangladeshi poet noted for his revolutionary and romantic poetry. He is considered one of the leading Bengali poets of the 1970s. He received Munir Chaudhury Memorial Award in 1980.",
+      "Price": 40000,
+      "age":67
+    },
+    {
+      "url": "https://images.gr-assets.com/authors/1488956986p5/16295477.jpg",
+      "name": "Ahsan Habib",
+      "Country": "Bangladesh",
+      "description": "Ahsan Habib was a Bangladeshi poet and literary figure in Bengali culture. He was born in the village of Shankarpasha, in Pirojpur. Before the India-Pakistan partition, he worked on several literary magazines: Takbir, Bulbul and The Saogat and he was a staff artiste at the Kolkata Centre of All India Radio.",
+      "Price": 50000,
+      "age":45
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jibanananda_Das_%281899%E2%80%931954%29.jpg",
+      "name": "Jibanananda Das",
+      "Country": "India",
+      "description": "Jibanananda Das was an indian poet, writer, novelist and essayist in the Bengali language. Popularly called Rupashi Banglar Kabi, Das is the most read poet after Rabindranath Tagore and Kazi Nazrul Islam in Bangladesh and West Bengal.",
+      "Price": 30000,
+      "age":67
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1c/Sufia_Kamal.jpg",
+      "name": "Sufia Kamal",
+      "Country": "Bangladesh",
+      "description": "Begum Sufia Kamal was a Bangladeshi poet and political activist. She took part in the Bengali nationalist movement of the 1950s and civil society leader in independent Bangladesh. She died in 1999 and was the first woman to be given a state funeral in Bangladesh.",
+      "Price": 49000,
+      "age":98
+    },
+    {
+      "url": "https://1.bp.blogspot.com/-DEd-QcZ7Bwk/W5_JBqmLmiI/AAAAAAAACGI/-9EDOZ923oE4H8fxpyHuXsKoAheOqquEgCLcBGAs/s1600/mical.png",
+      "name": "Michael Madhusudan Dutt",
+      "Country": "Bangladesh",
+      "description": "Michael Madhusudan Dutt was a Indian poet, writer and dramatist who wrote in both English and Bengali. His most notable work in Bengali is Meghnad Badh Kavya, a tragic epic in nine cantos which was constructed in the Greek poetic tradition. ",
+      "Price": 25000,
+      "age":46
+    },
+    {
+      "url": "https://i.pinimg.com/originals/6c/ec/3e/6cec3e6520c402717ab5ef5fd01cbb02.jpg",
+      "name": "Sukanta Bhattacharya",
+      "Country": "Bangladesh",
+      "description": "Sukanta Bhattacharya was a Bengali poet and playwright. He was called Young Nazrul and Kishore Bidrohi Kobi, a reference to the great rebel poet Kazi Nazrul Islam for Sukantas similar rebellious stance against the tyranny of the British Raj and the oppression by the social elites through the work of his poetry.",
+      "Price": 70000,
+      "age":45
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bimal_Guha.jpg",
+      "name": "Bimal Guha",
+      "Country": "Bagnladesh",
+      "description": "Bimal Guha is a Bangladeshi poet, and a leading poet of his generation. He appeared on the Bangladesh literary scene in the 1970s. His themes revolve around the war of liberation and the eternal subjects of love, nature, motherland, mother-tongue, tradition, and modernity.",
+      "Price": 20000,
+      "age":39
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Asad_Chowdhury_2010.jpg/1200px-Asad_Chowdhury_2010.jpg",
+      "name": "Asad Chowdhury",
+      "Country": "Bagladesh",
+      "description": "Asad Chowdhury is a poet, writer, translator, radio, television personality and journalist, as well as a cultural activist in Bangladesh. He won Ekushey Padak in 2013 and Bangla Academy Literary Award in 1987.",
+      "Price": 10000,
+      "age":34
+    },
+    {
+      "url": "https://images-na.ssl-images-amazon.com/images/I/71aqGwFoqZL._SX450_.jpg",
+      "name": "Anisul Hoque",
+      "Country": "Bangladesh",
+      "description": "Anisul Hoque is a Bangladeshi author, screenwriter, novelist, dramatist and journalist. He won Bangla Academy Literary Award in 2011. His most popular work is his non-fiction novel Maa. He is also the editor of Kishore Alo magazine. In addition, he is one of the two writers of the film Television.",
+      "Price": 60000,
+      "age":87
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Rafiq_Azad_%281941_-_2016%29.jpg/220px-Rafiq_Azad_%281941_-_2016%29.jpg",
+      "name": "Rafiq Azad",
+      "Country": "Bangladesh",
+      "description": "Rafiq Azad was a Bangladeshi poet, editor and writer. He is credited with 45 collections of poetry including Prakriti O Premer Kabita, Asambhaber Paye, Sahasra Sundar, Haturir Nichae Jiban, Khub Beshi Durea Noy, Khamakaro Bahaman Hey Udar Amiyo Batas and others.",
+      "Price": 60000,
+      "age":87
+    },
+    {
+      "url": "https://cdn.risingbd.com/media/imgAll/2017August/bg/poet20170817104643.jpg",
+      "name": "Shamsur Rahman",
+      "Country": "Bangladesh",
+      "description": "Shamsur Rahman was a Bangladeshi poet, columnist and journalist. A prolific writer, Rahman produced more than sixty books of poetry collection and is considered a key figure in Bengali literature from the latter half of the 20th century. He was regarded as the unofficial poet laureate of Bangladesh. ",
+      "Price": 500000,
+      "age":87
+    },
+    {
+      "url": "https://www.observerbd.com/2018/01/01/1514793284.jpg",
+      "name": "Jasimuddin",
+      "Country": "Bangladesh",
+      "description": "Jasimuddin, popularly called Palli Kabi, was a Bengali Bangladeshi poet, lyricist, composer and writer widely celebrated for his modern ballad sagas in the pastoral mode. His Nakshi Kanthar Math and Sojan Badiar Ghat are considered among the best lyrical poems in the Bengali language.",
+      "Price": 50000,
+      "age":47
+    },
+    {
+      "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/samaresh_majumdar-647x363.png?gblzV7kK1a70Y6ryN48ZpVkHflXzZW3W",
+      "name": "Samaresh Majumdar",
+      "Country": "India",
+      "description": "Samares Mazumdar is an Indian writer from West Bengal, India. He is best known for his Animesh series of novels, the second of which won the Sahitya Akademi Award in 1984. He is also known for creating the detective character Arjun, who is the central character of the 2013 film Arjun – Kalimpong E Sitaharan.",
+      "Price": 89000,
+      "age":65
+    }
+  ]
